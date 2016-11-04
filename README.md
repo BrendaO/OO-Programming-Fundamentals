@@ -9,5 +9,8 @@ class Hello{
   {
   
       System.out.println("Hello World!);
-      }
-      }
+  }
+  }
+
+The above program is a  very simple program to display the sentence "Hello world!" to the screen.
+It illustrates the use of the Java wrapper.
